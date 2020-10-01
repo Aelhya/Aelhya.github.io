@@ -1,0 +1,47 @@
+body{
+    width: 100 vw;
+    height: 100 vh;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*---Classic tags---*/
+h1, h2, h3{
+    color: #262626;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin: 5px 0 5px 0;
+}
+a{
+    color: black;
+    text-decoration-color: black;
+}
+a:hover{
+    color: rgb(109, 32, 32);
+    text-decoration-color: rgb(109, 32, 32);
+}
+
+/*---Class for layout---*/
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.code{
+    font-family: cursive;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+}
+.text-left{
+    float: left;
+}
+.text-right{
+    float: right;
+}
