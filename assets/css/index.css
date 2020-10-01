@@ -1,0 +1,17 @@
+/**
+ * Here you put things specific to the index page 
+ * and which is not global to the rest 
+ * of the site or other pages
+ */
+
+
+
+/*
+On affiche pas le footer pour le moment
+simplement parce que 
+1- pas fini
+2- pas assez de texte pour qu'il soit colle en bas
+*/
+footer{
+    display: none;
+}
