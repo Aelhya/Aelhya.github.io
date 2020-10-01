@@ -1,8 +1,30 @@
+/**
+ * Here things global has all the pages of the site
+ */
+
+
+
+
+/*---Main body style---*/
 body{
     width: 100 vw;
-    height: 100 vh;
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+main article{
+    max-width: 60vw;
+}
+
+/*---Footer---*/
+footer{
+    display: flex;
+    justify-content: space-evenly;
+
+    border-top: 1px solid grey;
 }
 
 
@@ -21,6 +43,7 @@ a{
     text-decoration-color: black;
 }
 a:hover{
+    transition-duration: 0.7s;/*LE SAINT GRAAL DU CSS tu va kiffer ;p*/
     color: rgb(109, 32, 32);
     text-decoration-color: rgb(109, 32, 32);
 }
