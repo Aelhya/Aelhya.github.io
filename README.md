@@ -1,8 +1,9 @@
 # Aelhya.github.io
 
 ## 🌱 Mon site Portfolio
+Site accessible à l'url : https://aelhya.github.io
 
-Ce projet est un site regroupant mes principaux projets.
+Ce projet est un site regroupant mes principaux projets (personnel et réalisé pendant mes études).
 
 Il a été fait avec un theme bootstrap =>
 ![Stylish Portfolio Preview](https://assets.startbootstrap.com/img/screenshots/themes/stylish-portfolio.png)
@@ -11,5 +12,6 @@ Il a été fait avec un theme bootstrap =>
 ##  💬 Contact :
 - Twitter : [@Aelhya_Lanryu](https://twitter.com/aelhya_lanryu)
 - Deviantart : [Aelhya-Lanryu](https://www.deviantart.com/aelhya-lanryu)
-- Instagram : [aelhya](https://www.instagram.com/aelhya)
+- Instagram : [@Aelhya](https://www.instagram.com/aelhya)
 
+<small>Màj : 18/04/2022</small>

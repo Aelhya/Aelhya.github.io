@@ -136,7 +136,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #4f91d1;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -169,7 +169,7 @@ h6 {
 
 .sidebar-nav > .sidebar-brand {
   font-size: 1.2rem;
-  background: rgba(52, 58, 64, 0.1);
+  background: rgba(55, 99, 157, 0.3);
   height: 80px;
   line-height: 50px;
   padding-top: 15px;
@@ -338,13 +338,13 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #4f91d1;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #447cc3;
   text-decoration: none;
 }
 
@@ -357,14 +357,14 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #4f91d1 !important;
+  border-color: #4f91d1 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #447cc3 !important;
+  border-color: #447cc3 !important;
 }
 
 .btn-secondary {
@@ -388,11 +388,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #4f91d1 !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #4f91d1 !important;
 }
 
 .text-secondary {
