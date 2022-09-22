@@ -14,4 +14,4 @@ Il a été fait avec un theme bootstrap =>
 - Deviantart : [Aelhya-Lanryu](https://www.deviantart.com/aelhya-lanryu)
 - Instagram : [@Aelhya](https://www.instagram.com/aelhya)
 
-<small>Màj : 18/04/2022</small>
+<small>Màj : 22/09/2022</small>
