@@ -2,7 +2,7 @@
 
 <template>
   <a
-    href="../assets/doc/CV_LOUIS_Adelaide.pdf"
+    href="https://github.com/Aelhya/Aelhya.github.io/blob/master/src/assets/img/CV_LOUIS_Adelaide.png?raw=true"
     download
     class="download-button"
   >
