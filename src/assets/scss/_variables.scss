@@ -1,0 +1,30 @@
+$green-100: #a3b18a;
+$green-300: #588157;
+$green-500: #3a5a40;
+$green-700: #344e41;
+
+$yellow-050: #f2e9ce;
+$yellow-100: #f2db94;
+
+$orange-300: #d98b48;
+$orange-700: #bf5517;
+
+$gray-050: #d9d7cd;
+
+$black: #242424;
+$white: #f6faef;
+
+$global-font-size: 100%;
+$font-family-base: "Atma", sans-serif;
+$font-family-alt: "Open Sans", sans-serif;
+$font-family-option: "Plus Jakarta Sans", sans-serif;
+
+$body-font-color: $black;
+
+$breakpoints: (
+  small: 0,
+  medium: 640px,
+  large: 1024px,
+  xlarge: 1200px,
+  xxlarge: 1400px,
+);
