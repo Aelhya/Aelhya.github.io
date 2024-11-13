@@ -61,14 +61,14 @@ const projets = ref<Projet[]>([
       "Participation à cette compétition informatique où il faut répondre à des défis dans un temps limité. Equipe : BA$HROOM." +
       "Nous sommes arrivés 2ème de France au défi « Neurchi Illuminati ».",
     image: "https://github.com/Aelhya/Aelhya.github.io/blob/master/src/assets/img/projects_img/Logo_defi.png?raw=true",
-    lien: "https://aelhya.github.io/web_components/",
+    lien: "",
   },
   {
     title: "Sunny",
     description:
       "Site réalisé au lycée comme projet final pour la spécialité Informatique et Sciences du Numériques en Terminale. Projet fait en groupe. Langages : HTML, CSS, JS, Python, Arduino.",
     image: "https://github.com/Aelhya/Aelhya.github.io/blob/master/src/assets/img/projects_img/sunny.png?raw=true",
-    lien: "https://www.youtube.com/watch?v=ciSc-jTICgs",
+    lien: "https://lostsh.github.io/sunny/",
   },
   {
     title: "Self-e",

@@ -9,7 +9,7 @@ const props = defineProps({
 
 <template>
   <div class="card">
-    <img v-if="props.lien != ''" :src="props.image" :alt="props.title" class="card-image" />
+    <img v-if="props.image != ''" :src="props.image" :alt="props.title" class="card-image" />
     <div class="card-content">
       <h3 class="card-title">{{ props.title }}</h3>
       <p class="card-description">{{ props.description }}</p>
