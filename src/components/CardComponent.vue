@@ -8,7 +8,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="card" @click="showPopup = true">
+  <div class="card">
     <img :src="props.image" :alt="props.title" class="card-image" />
     <div class="card-content">
       <h3 class="card-title">{{ props.title }}</h3>

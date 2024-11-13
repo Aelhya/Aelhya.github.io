@@ -1,4 +1,5 @@
 <script setup lang="ts">
+
 import SocialNetworkComponent from "../../components/SocialNetworkComponent.vue";
 
 let currentYear: number = new Date().getFullYear();
@@ -15,7 +16,7 @@ let currentYear: number = new Date().getFullYear();
         </p>
         <p>Portable : 07 . 86 . 41 . 15 . 32</p>
 
-        <social-network-component />
+        <SocialNetworkComponent />
       </div>
       <div class="copyright">
         <p>
